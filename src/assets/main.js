@@ -5,8 +5,7 @@ const content = null || document.getElementById('content');
 const options = {
 	method: 'GET',
 	headers: {
-        //TODO: Replace with your own API key
-		'X-RapidAPI-Key': '',
+		'X-RapidAPI-Key': 'Bq0QGOFeCtmshAGubOXhR5jTbAovp1Qpfn2jsn4PufvcFWDPbt',
 		'X-RapidAPI-Host': 'genius-song-lyrics1.p.rapidapi.com'
 	}
 };
